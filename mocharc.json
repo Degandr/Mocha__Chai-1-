@@ -1,5 +1,5 @@
 {
   "extensions": ["ts"],
-  "spec": ["Home_work/Task_1.spec.ts"],
+  "spec": ["Home_work/*.spec.ts"],
   "require": ["ts-node/register"]
 }
